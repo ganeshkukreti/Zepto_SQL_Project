@@ -116,8 +116,8 @@ CREATE TABLE zepto (
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty/zepto-SQL-data-analysis-project.git
-   cd zepto-SQL-data-analysis-project
+   git clone https://github.com/ganeshkukreti/zepto-SQL-Zepto__SQLprojectgit
+   cd Zepto_SQL_Project
    ```
 2. **Open zepto_SQL_data_analysis.sql**
 
